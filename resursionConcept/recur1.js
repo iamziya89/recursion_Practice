@@ -1,1 +1,4 @@
-console.log("Mohd Ziya")
+function x(){
+    console.log("Hello World");
+    return x();
+}
